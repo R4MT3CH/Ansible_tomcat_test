@@ -1,0 +1,21 @@
+server_name: '10.23.455.6'
+package_name: 'java'
+
+user_create:
+  - ramin
+  - gunji
+  - mike
+  - james
+  - karim
+
+packages:
+  - name: python
+    required: true
+  - name: java
+    required: true
+  - name: ruby
+    required: false
+  - name: nginx
+    required: true
+  
+
