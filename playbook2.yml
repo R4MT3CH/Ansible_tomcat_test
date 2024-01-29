@@ -1,6 +1,6 @@
 ---
 - name: playbook2
-  hosts: localhost
+  hosts: nodes
   
   vars:
    users:
