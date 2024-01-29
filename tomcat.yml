@@ -1,6 +1,6 @@
 ---
 - name: Tomcat Config
-  hosts: localhost
+  hosts: nodes
 
   vars:
     user : tomcat
